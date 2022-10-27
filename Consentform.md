@@ -1,9 +1,9 @@
 Consent Form
 
 
-Study: The objective of this study is to view society's opinions on Artificial Intelligence-based chatbots, before and after using them for useful information such as calorie intake recommendations.
+Study: The objective of this study is to view society's opinions on Artificial Intelligence-based chatbots, before and after using them for exercise log and information.
 
-Method: This experiment will involve the participant using the chatbot to obtain detailed information such as calorie intake and dietary recommendations based on their desired physical appearance. Before using the chatbot a questionnaire will be completed asking the user's opinions on chatbots and artificial intelligence as a whole. After completing, and using the chatbot the participant can gather the information and apply it, after some days pass the participant will fill out a questionnaire with varying questions about if they are happy with the chatbot and if they are more open to artificial intelligence. 
+Method: This experiment will involve the participant using the chatbot to obtain information absed on there exercise goals and will also log excercise plans. Before using the chatbot a questionnaire will be completed asking the user's opinions on chatbots and artificial intelligence as a whole. After completing, and using the chatbot the participant can gather the information and continue logging there excercise plans, after some days pass the participant will fill out a questionnaire with varying questions about if they are happy with the chatbot and if they are more open to artificial intelligence. 
 
 Privacy: All data gathered from the questionnaires will be held in a secure device and any conversation/questionnaire answers will not be shared with other participants within the study.
 
