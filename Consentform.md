@@ -9,6 +9,8 @@ Privacy: All data gathered from the questionnaires will be held in a secure devi
 
 Withdrawal: At any point during the study, you have the right to withdraw. Please let the organiser know if you wish to stop.
 
+Safety: This chatbot will provide general health information to the user, if you have any ongoing health issues then you will not be selcted to take part in this study.
+
 Organiser details:
 
 Name - Abdullah Irfan Khan
